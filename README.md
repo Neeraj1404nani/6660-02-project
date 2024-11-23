@@ -1,1 +1,1 @@
-# 6660-02-project
+# 8-Puzzel solver using search algorithm
