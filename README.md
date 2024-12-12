@@ -1,6 +1,6 @@
 # 8-Puzzel solver using search algorithm
 
-#Introduction#
+**Introduction**
 Welcome to the 8 Puzzle Solver project, a Python implementation of a classic problem-solving algorithm. This project aims to provide a simple and efficient solution to the 8 puzzle problem using various search algorithms.
 
 #Project Overview
