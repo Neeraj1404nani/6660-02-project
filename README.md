@@ -17,19 +17,27 @@ Greedy Search
 To use the 8 Puzzle Solver, follow these steps:
 
 1)Clone the repository to your local machine.
+
 2)Install the required dependencies by running pip install -r requirements.txt in your terminal.
+
 3)Run the program by executing python main.py in your terminal.
+
 4)Select the search algorithm you want to use by entering the corresponding number:
   1: Breadth-First Search (BFS)
   2: Depth-First Search (DFS)
   3: A* Search
+
+  
 5)The program will display the nodes visited,time taken, memory used and the number of steps required to reach the goal state.
+
 
 **Search Algorithms**
 The following search algorithms are implemented in this project:
 
+
 Breadth-First Search (BFS): Explores all the nodes at the current depth level before moving on to the next depth level.
 Depth-First Search (DFS): Explores as far as possible along each branch before backtracking.
+
 A* Search: Uses an admissible heuristic function to guide the search towards the goal state.
 
 **Running the Program**
