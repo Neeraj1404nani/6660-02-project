@@ -1,7 +1,7 @@
 # 8-Puzzel solver using search algorithm
 
 **Introduction**
-\nWelcome to the 8 Puzzle Solver project, a Python implementation of a classic problem-solving algorithm. This project aims to provide a simple and efficient solution to the 8 puzzle problem using various search algorithms.
+Welcome to the 8 Puzzle Solver project, a Python implementation of a classic problem-solving algorithm. This project aims to provide a simple and efficient solution to the 8 puzzle problem using various search algorithms.
 
 **Project Overview**
 The 8 puzzle problem is a classic problem in the field of artificial intelligence and computer science. The problem consists of a 3x3 grid with 8 numbered tiles and one blank space. The goal is to rearrange the tiles to form a specific configuration, usually the goal state, using a set of allowed moves.
