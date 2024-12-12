@@ -23,8 +23,11 @@ To use the 8 Puzzle Solver, follow these steps:
 3)Run the program by executing python main.py in your terminal.
 
 4)Select the search algorithm you want to use by entering the corresponding number:
+
   1: Breadth-First Search (BFS)
+  
   2: Depth-First Search (DFS)
+  
   3: A* Search
 
   
